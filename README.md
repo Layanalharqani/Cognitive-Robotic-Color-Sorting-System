@@ -1,5 +1,6 @@
-## Project Demonstration
+##robotic color sorting
 
-A demonstration video showing the robotic color sorting process and autonomous robotic behavior inside the Webots simulation environment is included with the project files.
+A demonstration video showing the robotic color sorting behavior inside the Webots simulation environment .
+
 Video File:
 Cognitive_Robotics_Demo.mp4
